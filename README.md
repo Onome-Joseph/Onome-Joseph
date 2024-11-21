@@ -20,9 +20,6 @@
 
 Feel free to reach out for collaborations, brainstorming sessions, or just to say hi!  
 
----  
-
-What do you think of this one?
 
 <!---
 Onome-Joseph/Onome-Joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

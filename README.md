@@ -2,9 +2,9 @@
 ### **Pronouns** : He/Him
 
 ## About Me  
-🌟 Expert-level knowledge in **data science and machine learning deployment**.  
-🚀 My goal is to build impactful systems that leverage **predictive analytics**, **recommendations**, and **natural language processing** to solve real-world problems.  
-🤝 I’m looking to collaborate with **frontend developers** to design **interactive and user-friendly interfaces** for data-driven applications.  
+- Expert-level knowledge in **data science and machine learning deployment**.  
+- My goal is to build impactful systems that leverage **predictive analytics**, **recommendations**, and **natural language processing** to solve real-world problems.  
+- I’m looking to collaborate with **frontend developers** to design **interactive and user-friendly interfaces** for data-driven applications.  
 
 ## What I’m Working On  
 - Created and still creating systems that **deliver monetary value** to businesses.  

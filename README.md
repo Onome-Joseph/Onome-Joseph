@@ -2,7 +2,7 @@
 ### **Pronouns** : He/Him
 
 ## About Me  
-🌟 I’m a **data scientist** with expert-level knowledge in **data science and machine learning deployment**.  
+🌟 Expert-level knowledge in **data science and machine learning deployment**.  
 🚀 My goal is to build impactful systems that leverage **predictive analytics**, **recommendations**, and **natural language processing** to solve real-world problems.  
 🤝 I’m looking to collaborate with **frontend developers** to design **interactive and user-friendly interfaces** for data-driven applications.  
 

@@ -1,18 +1,17 @@
-# 👋 Hello, I'm Onome Joseph Oshevire!
+# Hello, I'm Onome Joseph Oshevire!
 ### **Pronouns** : He/Him
 
 ## About Me  
-- Expert-level knowledge in **data science and machine learning deployment**.  
-- My goal is to build impactful systems that leverage **predictive analytics**, **recommendations**, and **natural language processing** to solve real-world problems.  
-- I’m looking to collaborate with **frontend developers** to design **interactive and user-friendly interfaces** for data-driven applications.  
+- Expert-level knowledge in **AI and machine learning deployment**.  
+- My goal is to build impactful systems that leverage **predictive analytics**, **Large Language Model (LLM)**, **recommendations**, and **natural language processing** to solve real-world problems.  
 
 ## What I’m Working On  
-- Created and still creating systems that **deliver monetary value** to businesses.  
-- Exploring ways to make **machine learning models** accessible to end-users for problem solving.
-- Learning and growing every day in the fields of **data science** and **Artificial intelligence**.  
+- Deployed and still creating systems that **deliver monetary value** to businesses.  
+- Exploring ways to make **AI models** accessible to end-users for problem solving.
+- Learning and growing every day in the fields of **Artificial intelligence**.  
 
 ## Fun Fact  
-💡 I once used machine learning to predict whether I’d finish a series based on its genre and my circumstances. 
+I once used machine learning to predict whether I’d finish a series based on its genre and my circumstances. 
 
 ## Let’s Connect!  
 📧 Email: [onomejoseph2341@gmail.com]
